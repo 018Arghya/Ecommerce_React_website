@@ -1,16 +1,11 @@
-# Full-Stack-E-Commerce-MERN-APP
-Full Stack E-Commerce MERN APP
+## Local Mert
 
-![Alt text](Full%20Stack%20E-Commerce%20MERN%20App.png?raw=true "Title")
+**Local Mert** is an eCommerce platform designed to empower local vendors by providing a digital storefront.
 
-Backend .env file 
+### Watch the Demo
 
-MONGODB_URI = 
-TOKEN_SECRET_KEY = 
-FRONTEND_URL
+Click on the image below to see a demo of the project:
 
-Frontend .env file
+[![Watch the demo](https://drive.google.com/uc?id=1efbAjVw1HYegL2yROO-zoRza2JhKa0Vt)](https://drive.google.com/file/d/1k1NytHto9m8IstdfpLDfPUUbiz1nY5c_/view?usp=sharing)
 
-REACT_APP_CLOUD_NAME_CLOUDINARY = 
-
-Image : https://drive.google.com/drive/folders/1KmY74OYniEodtOVAjNGJv4628HghRbcQ?usp=sharing
+For more details, visit the [GitHub repository](https://github.com/018Soham/MERN_website).
